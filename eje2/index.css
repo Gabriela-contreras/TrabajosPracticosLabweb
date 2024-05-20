@@ -1,0 +1,48 @@
+#Top{
+    background-color: rgb(95, 92, 92);
+    border: 5px rgb(175, 169, 169) solid ;
+    height: 100px;
+    margin: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.izq{
+    background-color: rgb(95, 92, 92);
+    border: 5px rgb(175, 169, 169) solid ;
+    height: 800px;
+    width: 200px;
+    margin: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.pie{
+    background-color: rgb(95, 92, 92);
+    border: 5px rgb(175, 169, 169) solid ;
+    height: 100px;
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.centro{
+    background-color: rgb(95, 92, 92);
+    border: 5px rgb(175, 169, 169) solid ;
+    height: 800px;
+    width: 1200px;
+    margin: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    
+}
